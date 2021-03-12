@@ -7,3 +7,4 @@ C:\Users\mkamoski\source\repos\BiabHelperV01\BiabHelperV01\obj\Debug\BiabHelperV
 C:\Users\mkamoski\source\repos\BiabHelperV01\BiabHelperV01\obj\Debug\BiabHelperV01.exe
 C:\Users\mkamoski\source\repos\BiabHelperV01\BiabHelperV01\obj\Debug\BiabHelperV01.pdb
 C:\Users\mkamoski\source\repos\BiabHelperV01\BiabHelperV01\obj\Debug\BiabHelperV01.csprojAssemblyReference.cache
+C:\Users\mkamoski\source\repos\BiabHelperV01\BiabHelperV01\obj\Debug\BiabHelperV01.MainFormV01.resources
