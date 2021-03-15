@@ -98,7 +98,7 @@ namespace BiabHelperV01
             this.ProcessTestButton.AutoSize = true;
             this.ProcessTestButton.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ProcessTestButton.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ProcessTestButton.Location = new System.Drawing.Point(157, 393);
+            this.ProcessTestButton.Location = new System.Drawing.Point(177, 393);
             this.ProcessTestButton.Name = "ProcessTestButton";
             this.ProcessTestButton.Size = new System.Drawing.Size(140, 32);
             this.ProcessTestButton.TabIndex = 5;
